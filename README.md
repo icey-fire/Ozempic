@@ -1,4 +1,4 @@
-# Ozempic Effect Analysis
+# Treatment Effect of Ozempic on Obesity and Hypertension
 
 > Key Words: Machine Learning, Logistic Regression, Treatment Effect, Double Lasso  
 
